@@ -1,18 +1,18 @@
 # Web Scrapping tool for Cryptocurrencies
 
--Installation:
-pip install requests
-pip install beautifulsoup4
-pip install selenium
-download chromedriver
-
--Usage: 
-from bs4 import BeautifulSoup
-from selenium import webdriver
-import requests
-
--Example:
-Enter the cryptocurrency: bitcoin
+-Installation: <br>
+pip install requests <br>
+pip install beautifulsoup4 <br>
+pip install selenium <br>
+download chromedriver <br>
+ <br>
+-Usage:  <br>
+from bs4 import BeautifulSoup <br>
+from selenium import webdriver <br>
+import requests <br>
+ <br>
+-Example: <br>
+Enter the cryptocurrency: bitcoin <br> 
 Title: ETH’s Vitalik Buterin Blasts El Salvador’s Bitcoin Law. Is He On To Something?
 ______________________________________________________________________________________________________
 
